@@ -7,6 +7,8 @@
 //
 
 #import "AppDelegate.h"
+#import "CallManager.h"
+#import "TwitterTableViewController.h"
 
 @interface AppDelegate ()
 
